@@ -15,18 +15,10 @@
 ### CONTACT
 [![skills](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/r4yy05)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316ls5z5l5bxxgvgo2t5acfuowca)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiiiaaaa/raiiiaaaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raiiiaaaa/raiiiaaaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raiiiaaaa/raiiiaaaa/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Rayyyyuuuu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rayyyyuuuu&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###

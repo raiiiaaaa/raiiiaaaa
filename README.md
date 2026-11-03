@@ -16,7 +16,7 @@
 ### CONTACT
 [![skills](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/r4yy05)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316ls5z5l5bxxgvgo2t5acfuowca)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ls5z5l5bxxgvgo2t5acfuowca)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raiiiaaaa/raiiiaaaa/output/pacman-contribution-graph-dark.svg">
